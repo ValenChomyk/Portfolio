@@ -123,3 +123,43 @@ br{
     
     background-color: white;
  }
+ .logo{
+    background-color: beige;
+    width: 125px;
+    padding: 35px 35px;
+    border-radius: 15px;
+ }
+ .fecha{
+    background-color: beige;
+    width: 40px;
+ }
+ h3{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+ }
+ div{
+    background-color: white;
+    width: 45%;
+    height: 350px;
+    color: black;
+
+ }
+ .minilogo{
+    width: 25px;
+ }
+ .minilogos{
+    width: 25px;
+ }
+ div h3 {
+    display: flex;
+    justify-content: flex-start;
+    padding: 15px 25px;
+    font-size: 15px;
+ }
+ .lenguajess{
+    color: beige;
+    background-color: black;
+    padding: 5px 25px;
+    border-radius: 7px;
+ }
