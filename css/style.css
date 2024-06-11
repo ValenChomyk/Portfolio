@@ -1,0 +1,125 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    height: 75px;
+}
+header h2 {
+    color: rgb(48, 121, 255);
+    display: flex;
+    justify-content: flex-start;
+    margin: 0px 35px;
+    padding: 0px 45px;
+    font-size: 35px;
+    width: 50%;
+}
+nav p{
+   color: rgb(48, 121, 255);
+}
+header nav {
+    width: 50%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0px 85px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.menuu{
+    color: white;
+    transition-duration: 1s;
+}
+.menuu:hover{
+    color: rgb(48, 121, 255);
+}
+hr{
+    opacity: 50%;
+}
+main{
+    height: 100%;
+    margin: 50px;
+    padding: 30px;
+}
+.yo{
+    padding: 0px 45px;
+    height: 350px;
+    width: 250px;
+    display: flex;
+    justify-content: flex-end;
+}
+.redes{
+    height: 25px;
+    width: 25px;
+    background-color: white;
+}
+.imgss{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    height: 350px;
+}
+.hero{
+    display: flex;
+    
+}
+.info{
+
+    font-size: 30px;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+br{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Botones{
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    transition-duration: 1s;
+}
+.Botones:hover{
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: black;
+    background-color: white;
+ }
+ .Botoness{
+    width: 100%;
+    padding: 15px 25px;
+    display: flex;
+  justify-content: center;
+
+ }
+ .menu{
+    font-size: 20px;
+    text-decoration: None;
+    border-color: white;
+    border-radius: 10px;
+    border-width: 10px;
+    padding: 15px 25px;
+    margin: 0px 40px;
+    transition-duration: 1s;
+    display: flex;
+  
+ }
+ .menu:hover{
+    border-radius: 10px;
+    padding: 15px 25px;
+    color: black;
+    
+    background-color: white;
+ }
